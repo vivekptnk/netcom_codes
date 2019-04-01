@@ -1,4 +1,5 @@
 # IP Address Validity
+
 print("Enter the IP address")
 s = list(map(int, input().split('.')))
 print(s)
