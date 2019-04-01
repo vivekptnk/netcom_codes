@@ -1,5 +1,5 @@
 # Network and Communication
-Codes available here to learn for LABFAT. :sparkles: :metal:, under Prof. Navamani TM.
+Codes to learn for LABFAT, under Prof. Navamani TM. :sparkles: :metal:
 
 ## 1. Network Configuration Commands
 Commands under this sub-section might not come for LABFAT, but it's general understanding is required for VIVA or QUIZ.
