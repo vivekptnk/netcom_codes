@@ -77,10 +77,31 @@ arp -e
 
 There are many more commands but this should suffice.
 
-# 2. Error Detection and Correction
+# 2. Error Detection and Correction (C PROGRAMS)
+    2.1) Parity Checking
+    2.2) Checksum
+    2.3) CRC
+    2.4) Hamming Code
 
-# 3. Flow Control and IP addressing
+# 3. Flow Control
+    3.1) Stop and Wait
+        1) Sender
+        2) Reciever
+    3.2) Selective Repeat
+    3.3) Go Back N
+    
+# 4. IP Addressing(PYTHON PROGRAMS)
+    4.1) IP Address Validity
+    4.2) Analysis of IP Address
 
-# 4. Packet Tracing (WireShark)
+# 5. Packet Tracing (WireShark)
+    5.1) TCP Socket Programming
+        1) Server
+        2) Client
+    5.2) UDP Socket Programming
+        1) Server
+        2) Client
 
-# 5. Network Simulation
+# 6. Network Simulation
+    NS2 has some code that I dont understand yet, for now what I have understood is up in the 6th script.
+    6) NS2 
