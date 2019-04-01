@@ -1,6 +1,7 @@
 # IP Address Validity
 print("Enter the IP address")
-s = list(map(int, input().split('.'))) print(s)
+s = list(map(int, input().split('.')))
+print(s)
 flag = False
 for i in s:
     if(i > 255 or i < 0):
