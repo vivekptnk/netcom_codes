@@ -1,3 +1,4 @@
+//CRC
 #include <stdio.h>
 #include <string.h>
 #define N strlen(g)

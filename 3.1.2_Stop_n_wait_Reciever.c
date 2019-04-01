@@ -1,3 +1,4 @@
+//StopNWait  RECIEVER
 #include <stdio.h>
 void sendACK(int a)
 {
