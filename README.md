@@ -75,10 +75,7 @@ The "arp" Command. arp displays and modifies entries in the Address Resolution P
 arp -e
 ```
 
-
-
-
-
+There are many more commands but this should suffice.
 
 # 2. Error Detection and Correction
 
