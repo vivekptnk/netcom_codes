@@ -90,7 +90,7 @@ There are many more commands but this should suffice.
     3.2) Selective Repeat
     3.3) Go Back N
     
-# 4. IP Addressing(PYTHON PROGRAMS)
+# 4. IP Addressing (PYTHON PROGRAMS)
     4.1) IP Address Validity
     4.2) Analysis of IP Address
 
