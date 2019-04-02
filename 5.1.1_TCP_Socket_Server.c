@@ -1,4 +1,4 @@
-// Server side C
+// TCP Server side C
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/socket.h>

@@ -1,4 +1,4 @@
-// Client side C
+// TCP Client side C
 #include <stdio.h>
 #include <sys/socket.h>
 #include <stdlib.h>
